@@ -1,0 +1,46 @@
+.bg-menu{
+    background-color:#5C636A;
+    display:flex;
+    justify-content: center;
+}
+.container-img-top{
+    width: 100%;
+    height:400px;
+    background-image: url("../Images/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 70%;
+}
+   
+.tshadow{
+    text-shadow: 2px 2px 1px #000;
+}
+
+.col img{
+    height:200px;
+}
+.container-img-second{
+    width: 100%;
+    height:400px;
+    background-image: url("../Images/walkpaper2.webp");
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    background-size:cover;
+}
+
+.container-img-botton{
+    width: 100%;
+    height:500px;
+    background-image: url("../Images/walkpaper4.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    background-size:cover;
+    
+}
+
+.opacidade{
+    width:100%;
+    height:100%;
+    background-color: rgba(0,0,90,0.2);
+
+}
+
